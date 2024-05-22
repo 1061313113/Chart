@@ -1,11 +1,65 @@
-<mxfile host="app.diagrams.net" modified="2024-05-21T16:09:05.957Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="LYuj3WznfUHs_vL6sJ0u" version="24.4.4" type="github">
-  <diagram name="第 1 页" id="gZIgJ6bIYM4hXccHV4_C">
+<mxfile host="app.diagrams.net" modified="2024-05-22T14:18:16.128Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="dLm-_NGJ1uUuVKibIQvu" version="24.4.4" type="github">
+  <diagram id="wvQ66U3HLiB5DhwhfSA0" name="Page-1">
     <mxGraphModel dx="1562" dy="810" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="Lpipb7dC5aX8KFILOjkE-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="220" y="180" width="120" height="60" as="geometry" />
+        <mxCell id="ArMR1PN8NOC9bVqnzGlP-1" value="JS | 布局 &amp;amp; 样式 | 端 | 技术栈" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="20" y="230" width="310" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ArMR1PN8NOC9bVqnzGlP-2" value="必知必会" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="330" y="235" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ArMR1PN8NOC9bVqnzGlP-3" value="工具" style="rounded=1;whiteSpace=wrap;html=1;fillColor=default;" parent="1" vertex="1">
+          <mxGeometry x="20" y="130" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ArMR1PN8NOC9bVqnzGlP-4" value="工程化" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="150" y="130" width="180" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ArMR1PN8NOC9bVqnzGlP-5" value="必须了解使用&lt;div&gt;&amp;amp;&lt;/div&gt;&lt;div&gt;原理 加分&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="330" y="140" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ArMR1PN8NOC9bVqnzGlP-6" value="模式 ｜ 实战 ｜ 算法" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="20" y="70" width="310" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ArMR1PN8NOC9bVqnzGlP-7" value="难点｜重点｜亮点" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="330" y="75" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ArMR1PN8NOC9bVqnzGlP-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="ArMR1PN8NOC9bVqnzGlP-8" target="ArMR1PN8NOC9bVqnzGlP-9" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ArMR1PN8NOC9bVqnzGlP-8" value="js基础&amp;amp;高级应用" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="50" y="400" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ArMR1PN8NOC9bVqnzGlP-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="ArMR1PN8NOC9bVqnzGlP-9" target="ArMR1PN8NOC9bVqnzGlP-11" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ArMR1PN8NOC9bVqnzGlP-9" value="this &amp;amp; 作用域 &amp;amp; 闭包" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="230" y="320" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ArMR1PN8NOC9bVqnzGlP-11" value="作用域" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="420" y="265" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ArMR1PN8NOC9bVqnzGlP-13" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" parent="1" vertex="1">
+          <mxGeometry x="550" y="245" width="20" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="ArMR1PN8NOC9bVqnzGlP-14" value="作用域链" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="580" y="230" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ArMR1PN8NOC9bVqnzGlP-15" value="提升" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="580" y="290" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ArMR1PN8NOC9bVqnzGlP-16" value="隔离 =&amp;gt; 模块" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="580" y="350" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ArMR1PN8NOC9bVqnzGlP-17" value="模块化" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="420" y="570" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ArMR1PN8NOC9bVqnzGlP-18" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;" parent="1" source="ArMR1PN8NOC9bVqnzGlP-16" target="ArMR1PN8NOC9bVqnzGlP-17" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="560" y="430" as="sourcePoint" />
+            <mxPoint x="610" y="380" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
